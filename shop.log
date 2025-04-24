@@ -1,0 +1,8 @@
+2025-04-24 22:04:23,685 - DEBUG - Using proactor: IocpProactor
+2025-04-24 22:04:23,689 - DEBUG - Using proactor: IocpProactor
+2025-04-24 22:04:23,693 - INFO - Try open http://127.0.0.1:50825 in web browser
+2025-04-24 22:04:23,972 - INFO - info
+2025-04-24 22:04:25,785 - INFO - The consumer bought 1.420 kilograms of apples
+2025-04-24 22:04:27,038 - INFO - The consumer bought 5.000 kilograms of bananas
+2025-04-24 22:04:27,727 - DEBUG - Closing tornado ioloop...
+2025-04-24 22:04:27,728 - DEBUG - Tornado server exit
